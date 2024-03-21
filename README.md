@@ -20,10 +20,10 @@ pip3 install -r requirements.txt
 ## How execute Cloud-CSI ?
 
 
-python3.11 exporter.py -t <service_type> -r <region> -l <list of resources> -p <period in minutes> -i <interval in days>
+> python3.11 exporter.py -t <service_type> -r <region> -l <list of resources> -p <period in minutes> -i <interval in days>
 
 Example
 
-python3.11 exporter.py -t rds -r us-east-1 -l rds-pgs-01 -p 300 -i 30
+> python3.11 exporter.py -t rds -r us-east-1 -l rds-pgs-01 -p 300 -i 30
   
   
