@@ -1,0 +1,4 @@
+[
+    {"Metric": "db.SQL.Queries.avg"},
+    {"Metric": "db.SQL.Com_select.avg"}
+]

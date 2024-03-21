@@ -1,0 +1,8 @@
+[
+    {"Metric": "os.cpuUtilization.total.avg"},
+    {"Metric": "os.memory.free.avg"},
+    {"Metric": "os.memory.total.avg"},
+    {"Metric": "os.memory.db.cache.avg"},
+    {"Metric": "os.network.tx.avg"},
+    {"Metric": "os.network.rx.avg"}
+]

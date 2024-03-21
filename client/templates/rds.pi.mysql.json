@@ -1,0 +1,14 @@
+[
+    {"Metric": "db.SQL.Queries.avg"},
+    {"Metric": "db.SQL.Questions.avg"},
+    {"Metric": "db.SQL.Com_select.avg"},
+    {"Metric": "db.Users.Connections.avg"},
+    {"Metric": "db.SQL.Innodb_rows_deleted.avg"},
+    {"Metric": "db.SQL.Innodb_rows_inserted.avg"},
+    {"Metric": "db.SQL.Innodb_rows_read.avg"},
+    {"Metric": "db.SQL.Innodb_rows_updated.avg"},
+    {"Metric": "db.SQL.Com_select.avg"},
+    {"Metric": "db.SQL.Com_select.avg"},
+    {"Metric": "db.SQL.Com_select.avg"},
+    {"Metric": "db.SQL.Com_select.avg"},
+]

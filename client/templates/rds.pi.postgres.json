@@ -1,0 +1,12 @@
+[
+    {"Metric": "db.Transactions.xact_commit.avg"},
+    {"Metric": "db.Transactions.xact_rollback.avg"},
+    {"Metric": "db.SQL.tup_deleted.avg"},
+    {"Metric": "db.SQL.tup_updated.avg"},
+    {"Metric": "db.SQL.tup_inserted.avg"},
+    {"Metric": "db.SQL.tup_returned.avg"},
+    {"Metric": "db.SQL.tup_fetched.avg"},
+    {"Metric": "db.User.numbackends.avg"},
+    {"Metric": "db.Transactions.active_transactions.avg"},
+    {"Metric": "db.WAL.archived_count.avg"}
+]
