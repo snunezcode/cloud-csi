@@ -979,11 +979,14 @@ def main(argv):
         target_table = 'tblRds'
     
     archive_file_id = resource_object.export_metrics()
-    #archive_file_id = "20240127174923.dynamodb.tar.gz"
-            
-    importer = classImporter({ "user_id" : "snmatus@amazon.com", "region" : "us-east-1", "database_ts" : "dbDPA360", "table_ts" : target_table, "table_ddb" : "tblDPA360" })
+    
+    '''
+    
+    # Used to import the archiver
+    importer = classImporter({ "user_id" : "mail@example.com", "region" : "us-east-1", "database_ts" : "dbDPA360", "table_ts" : target_table, "table_ddb" : "tblDPA360" })
     importer.import_metrics(archive_file_id)
-
+    
+    '''
     
 if __name__ == "__main__":
 
